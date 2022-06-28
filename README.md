@@ -14,7 +14,7 @@
 
 
 
-<img align="right" alt="girl" width="400" src="https://media.baamboozle.com/uploads/images/390588/1622586306_169460_gif-url.gif">
+<img align="right" alt="right" width="400" src="https://tenor.com/bbAyG.gif">
 
     - 🌱 I’m currently learning **javascript**
 
