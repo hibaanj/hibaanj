@@ -5,11 +5,9 @@
 
 
 <img align="right" alt="girl" src="https://i.gifer.com/origin/c7/c7bbf0cfeba0a0a70ccd52a36a736845_w200.gif">
-<p> - 🌱 I’m currently learning **javascript**  </p>
+<p> - 🌱 I’m currently learning **fullstack web development **  </p>
 
- <p>   - 📫 How to reach me **anjumhiba15@gmail.com** </p>
-
- <p>   - ⚡ Fun fact **hahahahiba is my chosen name**   </p> 
+ <p>   - 📫 How to reach me **anjumhiba15@gmail.com** </p> 
     
 
 <h3> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 2%> </h3>
